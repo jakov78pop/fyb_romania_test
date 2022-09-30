@@ -1,3 +1,6 @@
+[demo-pwa.webm](https://user-images.githubusercontent.com/114749971/193282916-c650fb8d-3fd9-483f-9e79-5e77e625d4c9.webm)
+
+
 # Quasar App (fyb_romania project)
 
 A Quasar Project
